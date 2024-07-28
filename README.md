@@ -1,0 +1,5 @@
+- 👋 Greetings, I am @Protanomaly
+- 🌱 My current intellectual pursuits encompass the intricacies of C++, the elegance of Lisp, and the mathematical purity of Haskell
+- 💞️ I am keen to engage in collaborative endeavors on open-source projects, providing or receiving assistance as required
+- 📫 You may contact me via Discord: tritanopia
+- ⚡ Fun fact: My engagement in these activities is purely for my own intellectual stimulation and enjoyment
